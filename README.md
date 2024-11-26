@@ -1,4 +1,4 @@
-# Operating-Systems
+# Operating Systems Projects
 This repository contains four major Operating Systems projects I completed in C:
 
 ## Simple Shell
